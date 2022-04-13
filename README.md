@@ -1,6 +1,6 @@
 # Advanced C#
 
-> In this module, you will take a deeper look at the fundamental .NET concepts like: Value vs Ref types, nullable types, boxing and unboxing, extension methods, delegate and events and generics concepts like covariation and contravariance. By the end of this topic, you will create a solution to consolidate theoretical knowledge.
+In this module, you will take a deeper look at the fundamental .NET concepts like: Value vs Ref types, nullable types, boxing and unboxing, extension methods, delegate and events and generics concepts like covariation and contravariance. By the end of this topic, you will create a solution to consolidate theoretical knowledge.
 
 ### Questions for the self-check:
 
@@ -62,41 +62,38 @@ All unit tests should pass successfully.
 
 ## Self-study Materials
 
-Value vs Ref types:
+* Value vs Ref types:
 
-* [Value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
-* [Built-in reference types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
-
- 
-
-Nullable types, Boxing and Unboxing:
-
-* [Nullable value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types) 
-* 1[Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#boxing-and-unboxing)
+    * [Value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
+    * [Built-in reference types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
 
  
 
-OOP Fundamentals via C#:
+* Nullable types, Boxing and Unboxing:
 
-..* [Object-Oriented programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
-* [Inheritance in C# and .NET](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance) 
-* [Overview of classes, structs, and records in C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented)
-* [Object Class](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+    * [Nullable value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types) 
+    * 1[Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#boxing-and-unboxing)
 
  
+
+* OOP Fundamentals via C#:
+
+    * [Object-Oriented programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+    * [Inheritance in C# and .NET](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance) 
+    * [Overview of classes, structs, and records in C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented)
+    * [Object Class](https://docs.microsoft.com/en-us/dotnet/api/system.object)
 
 
 * [Choosing Between Class and Struct](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct 
 
  
 
-Extension Methods overview:
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods  
+* Extension Methods overview:
+    * [Extension Methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods] 
 
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method  
+    * [How to implement and call a custom extension method](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method]
 
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration  
-
+    * [How to create a new method for an enumeration](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration]
  
 
 Learning C# - Interfaces and generic (1h 21m, video course) 
