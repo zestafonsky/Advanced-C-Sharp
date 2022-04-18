@@ -48,6 +48,7 @@ FileFound / DirectoryFound for all found files and folders before filtering, and
 These events should allow (by setting special flags in the parameter): 
 
 * Abort search 
+
 * Exclude files/folders from the final list 
 
 ### Task 3 (optional): 
@@ -63,6 +64,7 @@ All unit tests should pass successfully.
 ### 1. Value vs Ref types:
 
 * [Value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
+
 * [Built-in reference types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
 
  
@@ -70,6 +72,7 @@ All unit tests should pass successfully.
 ### 2. Nullable types, Boxing and Unboxing:
 
 * [Nullable value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types) 
+
 * [Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#boxing-and-unboxing)
 
  
@@ -77,43 +80,55 @@ All unit tests should pass successfully.
 ### 3. OOP Fundamentals via C#:
 
 * [Object-Oriented programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+
 * [Inheritance in C# and .NET](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance) 
+
 * [Overview of classes, structs, and records in C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented)
+
 * [Object Class](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+
 * [Choosing Between Class and Struct](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct)
 
 
 ### 4. Extension Methods overview:
 
 * [Extension Methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+
 * [How to implement and call a custom extension method](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method)
+
 * [How to create a new method for an enumeration](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration)
  
 ### 5. Interfaces and generic:
 
 * [C#: Interfaces and Generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics?u=2113185) 
+
 * [Covariance and contravariance in generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
+
 * [Covariance and Contravariance (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance)
 
 
 ### 6. C#: Delegates, Events and Lambdas
 
-
 * [Delegates (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates)
+
 * [Delegates and lambdas](https://docs.microsoft.com/en-us/dotnet/standard/delegates-lambdas)
+
 * [Events (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events)
+
 * [C#: Delegates, Events and Lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas)
+
 * [Lambda expressions (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+
 * [Yield Return/Back statement)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield)
 
 ### 7. Additional: 
 
-
 * [Reference Types vs Value Types ](https://github.com/sidristij/dotnetbook/blob/master/book/en/ReferenceTypesVsValueTypes.md)
- 
+
 * [Generic in C#](https://www.linkedin.com/learning/using-generics-in-c-sharp/using-generics-to-make-your-code-safer-and-more-valuable?u=2113185)
  
-
 ### 8. New/Cool things in C# (The history of C#) 
+
 * [Null Parameter Checks in C# 10 and .NET 6 In 10 Minutes or Less](https://www.youtube.com/watch?v=230zlnKkl3A)
+
 * [The history of C#](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
