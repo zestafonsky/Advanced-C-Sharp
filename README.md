@@ -62,64 +62,57 @@ All unit tests should pass successfully.
 
 ## Self-study Materials
 
-* Value vs Ref types:
+### 1. Value vs Ref types:
 
-    * [Value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
-    * [Built-in reference types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
-
- 
-
-* Nullable types, Boxing and Unboxing:
-
-    * [Nullable value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types) 
-    * [Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#boxing-and-unboxing)
+* [Value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
+* [Built-in reference types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
 
  
 
-* OOP Fundamentals via C#:
+### 2. Nullable types, Boxing and Unboxing:
 
-    * [Object-Oriented programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
-    * [Inheritance in C# and .NET](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance) 
-    * [Overview of classes, structs, and records in C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented)
-    * [Object Class](https://docs.microsoft.com/en-us/dotnet/api/system.object)
-
-
-* [Choosing Between Class and Struct](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct 
+* [Nullable value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types) 
+* [Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#boxing-and-unboxing)
 
  
 
-* Extension Methods overview:
-    * [Extension Methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods] 
+### 3. OOP Fundamentals via C#:
 
-    * [How to implement and call a custom extension method](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method]
+* [Object-Oriented programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop)
+* [Inheritance in C# and .NET](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritance) 
+* [Overview of classes, structs, and records in C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented)
+* [Object Class](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+* [Choosing Between Class and Struct](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/choosing-between-class-and-struct)
 
-    * [How to create a new method for an enumeration](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration]
+
+### 4. Extension Methods overview:
+
+* [Extension Methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods)
+
+* [How to implement and call a custom extension method](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-implement-and-call-a-custom-extension-method)
+
+* [How to create a new method for an enumeration](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration)
  
+### 5. Interfaces and generic:
 
 * [C#: Interfaces and Generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics?u=2113185) 
-  
 
 * [Covariance and contravariance in generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
 
-* [Covariance and Contravariance (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance 
+* [Covariance and Contravariance (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance)
 
-* [Yield Return/Back statement)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield)
 
-* [Lambda expressions (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions  
-
- 
-
-C#: Delegates, Events and Lambdas (30h, reading) 
+### 6. C#: Delegates, Events and Lambdas
 
 
 * [Delegates (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates)
 * [Delegates and lambdas](https://docs.microsoft.com/en-us/dotnet/standard/delegates-lambdas)
 * [Events (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events)
 * [C#: Delegates, Events and Lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas)
+* [Lambda expressions (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions  
+* [Yield Return/Back statement)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield)
 
- 
-
-Additional: 
+### 7. Additional: 
 
 
 * [Reference Types vs Value Types ](https://github.com/sidristij/dotnetbook/blob/master/book/en/ReferenceTypesVsValueTypes.md)
