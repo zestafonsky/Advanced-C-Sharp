@@ -72,7 +72,7 @@ All unit tests should pass successfully.
 * Nullable types, Boxing and Unboxing:
 
     * [Nullable value types (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types) 
-    * 1[Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#boxing-and-unboxing)
+    * [Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#boxing-and-unboxing)
 
  
 
@@ -96,53 +96,37 @@ All unit tests should pass successfully.
     * [How to create a new method for an enumeration](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/how-to-create-a-new-method-for-an-enumeration]
  
 
-Learning C# - Interfaces and generic (1h 21m, video course) 
-* [](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics?u=2113185 
- 
+* [C#: Interfaces and Generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics?u=2113185) 
+  
 
-Covariance and contravariance in generics (30m, reading) 
+* [Covariance and contravariance in generics](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance)
 
-* [](https://docs.microsoft.com/en-us/dotnet/standard/generics/covariance-and-contravariance 
+* [Covariance and Contravariance (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance 
 
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance 
+* [Yield Return/Back statement)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield)
 
- 
-
-Yield Return/Back statement (5m, reading) 
-
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield 
-
- 
-
-Lambda expressions (15m, reading) 
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions  
+* [Lambda expressions (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions  
 
  
 
 C#: Delegates, Events and Lambdas (30h, reading) 
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates 
-* [](https://docs.microsoft.com/en-us/dotnet/standard/delegates-lambdas  
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events 
- 
 
-C#: Delegates, Events and Lambdas (1h 20m, course) 
 
-* [](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas  
+* [Delegates (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates)
+* [Delegates and lambdas](https://docs.microsoft.com/en-us/dotnet/standard/delegates-lambdas)
+* [Events (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events)
+* [C#: Delegates, Events and Lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas)
 
  
 
 Additional: 
 
-Reference Types vs Value Types 
 
-* [](https://github.com/sidristij/dotnetbook/blob/master/book/en/ReferenceTypesVsValueTypes.md 
+* [Reference Types vs Value Types ](https://github.com/sidristij/dotnetbook/blob/master/book/en/ReferenceTypesVsValueTypes.md)
  
-
-Generic in C# (1 hour video) 
-
-* [](https://www.linkedin.com/learning/using-generics-in-c-sharp/using-generics-to-make-your-code-safer-and-more-valuable?u=2113185 
+* [Generic in C#](https://www.linkedin.com/learning/using-generics-in-c-sharp/using-generics-to-make-your-code-safer-and-more-valuable?u=2113185)
  
 
 New/Cool things in C# (The history of C#) 
-* [](https://www.youtube.com/watch?v=230zlnKkl3A  
-* [](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history  
+* [Null Parameter Checks in C# 10 and .NET 6 In 10 Minutes or Less](https://www.youtube.com/watch?v=230zlnKkl3A)
+* [The history of C#](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
