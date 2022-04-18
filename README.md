@@ -120,6 +120,6 @@ All unit tests should pass successfully.
 * [Generic in C#](https://www.linkedin.com/learning/using-generics-in-c-sharp/using-generics-to-make-your-code-safer-and-more-valuable?u=2113185)
  
 
-New/Cool things in C# (The history of C#) 
+### 8. New/Cool things in C# (The history of C#) 
 * [Null Parameter Checks in C# 10 and .NET 6 In 10 Minutes or Less](https://www.youtube.com/watch?v=230zlnKkl3A)
 * [The history of C#](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)
