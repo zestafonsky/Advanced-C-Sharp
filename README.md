@@ -109,7 +109,7 @@ All unit tests should pass successfully.
 * [Delegates and lambdas](https://docs.microsoft.com/en-us/dotnet/standard/delegates-lambdas)
 * [Events (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events)
 * [C#: Delegates, Events and Lambdas](https://www.linkedin.com/learning/c-sharp-delegates-events-and-lambdas)
-* [Lambda expressions (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions  
+* [Lambda expressions (C# reference)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
 * [Yield Return/Back statement)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield)
 
 ### 7. Additional: 
